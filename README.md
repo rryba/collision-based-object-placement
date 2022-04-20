@@ -1,6 +1,6 @@
 # collision-based-object-placement
 
-Previosuly available on Unity asset store https://assetstore.unity.com/publishers/36047 !
+Unity package available at https://assetstore.unity.com/packages/tools/physics/collider-based-perfect-object-placement-system-116503 !
 
 Simple to use procedural system to place objects based on their colliders for Unity engine. System engages Unity Physic build system (PhysX) for accurate collision detection. It already support multiple colliders even in child's game objects, rigidbodies and every collider's type.
 
